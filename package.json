@@ -12,7 +12,6 @@
   },
   "scripts": {
     "start": "node server",
-    "build": "react-scripts build",
     "postinstall": "npm run build"
   },
   "eslintConfig": {
